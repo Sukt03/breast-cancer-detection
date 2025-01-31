@@ -4,10 +4,6 @@ This project aims to build a machine learning model to classify breast cancer im
 
 ---
 
-## Project Structure
-
-Breast-Cancer-Image-Classification/ ├─ Detect_BreastCancer.ipynb ├─ Kaggle Link.txt ├─ output/ ├─ sampleTest_Pictures/ ├─ train_CustomModel_32_conv_20k.ipynb ├─ train_ResNet50_32_20k.ipynb └─ utils/ ├─ config.py ├─ conv_bc_model.py ├─ create_dataset.py └─ getPaths.py
-
 
 ### Key Components
 
